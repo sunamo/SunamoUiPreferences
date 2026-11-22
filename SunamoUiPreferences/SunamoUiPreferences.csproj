@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <Version>26.11.22.1</Version>
+    <Version>26.11.22.2</Version>
     <Description>Language and theme choice (follow Windows or an explicit value) with persistence for Windows desktop apps, independent of any UI library</Description>
     <Authors>www.sunamo.cz</Authors>
     <Copyright>www.sunamo.cz</Copyright>

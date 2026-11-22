@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SunamoUiPreferences\SunamoUiPreferences.csproj" />
+  <Project Path="SunamoUiPreferences.Tests\SunamoUiPreferences.Tests.csproj" />
+</Solution>
